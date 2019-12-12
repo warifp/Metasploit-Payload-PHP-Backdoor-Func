@@ -18,3 +18,6 @@ and the file, uploaded to Hosting or Online storage.
 
 ### Why use file_get_contents?
 Because, when the backdoor is installed and used in the target victim, we cannot change the IP: Port, when Port Forwarding is down or experiencing problems, we only need to change the contents of the file host.txt and port.txt in Hosting or Online Storage, and backdoor in the target victim will read the new contents of the file, and therefore we can make it change as we wish.
+
+
+### You can read here : https://medium.com/@warifp/metasploit-ip-publik-fixed-port-dengan-ngrok-versi-gratis-fa4614934aaa
